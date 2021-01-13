@@ -1,0 +1,16 @@
+Coche: A Beatriz Asensio 20 a駉sDNI: 123243ADia : 0 Hora: 4
+Coche: B Pablo Bard贸n 18 a駉sDNI: 345445JDia : 0 Hora: 4
+Coche: C Fernando Blasco 18 a駉sDNI: 40123423HDia : 0 Hora: 4
+Coche: E Alonso G贸mez 22 a駉sDNI: 401212312IDia : 0 Hora: 4
+Coche: F David Marcos 54 a駉sDNI: 81234123JDia : 0 Hora: 4
+Coche: G Rafael Rom谩n 22 a駉sDNI: 81211234213HDia : 0 Hora: 4
+Coche: H Beatriz Asensio 33 a駉sDNI: 213412342JDia : 0 Hora: 4
+Coche: I Pablo Bard贸n 20 a駉sDNI: 123243ADia : 0 Hora: 4
+Coche: A Beatriz Asensio 20 a駉sDNI: 123243ADia : 0 Hora: 5
+Coche: B Pablo Bard贸n 18 a駉sDNI: 345445JDia : 0 Hora: 5
+Coche: C Fernando Blasco 18 a駉sDNI: 40123423HDia : 0 Hora: 5
+Coche: E Alonso G贸mez 22 a駉sDNI: 401212312IDia : 0 Hora: 5
+Coche: F David Marcos 54 a駉sDNI: 81234123JDia : 0 Hora: 5
+Coche: G Rafael Rom谩n 22 a駉sDNI: 81211234213HDia : 0 Hora: 5
+Coche: H Beatriz Asensio 33 a駉sDNI: 213412342JDia : 0 Hora: 5
+Coche: I Pablo Bard贸n 20 a駉sDNI: 123243ADia : 0 Hora: 5

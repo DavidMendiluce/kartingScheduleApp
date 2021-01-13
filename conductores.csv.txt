@@ -1,0 +1,8 @@
+Beatriz Asensio, 20, 123243A, 56, VIP,
+Pablo Bardón, 18, 345445J, 150, NOVIP,
+Fernando Blasco, 18, 40123423H, 36, VIP,
+Felix Martin, 22, 401212312I, 12, NOVIP,
+Alonso Gómez, 54, 81234123J, 78, NOVIP,
+David Marcos, 22, 81211234213H, 100, VIP,
+Rafael Román, 33, 213412342J, 110, VIP,
+
